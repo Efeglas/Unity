@@ -1,7 +1,8 @@
-# Unity
-Unity script collection
+# Unity script collection.
 
 ## Content:
+
+### Pathfinding:
 |File|Description|
 |---|---|
 |Heap.cs|Heap data structure for open nodes.|
